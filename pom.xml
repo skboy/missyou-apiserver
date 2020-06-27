@@ -5,11 +5,11 @@
     <parent>
         <groupId>com.missyou</groupId>
         <artifactId>missyou-parent</artifactId>
-        <version>1.0.4.RELEASE</version>
+        <version>1.0.5.RELEASE</version>
     </parent>
 
     <artifactId>missyou-apiserver</artifactId>
-    <version>1.0.4.RELEASE</version>
+    <version>1.0.5.RELEASE</version>
     <packaging>pom</packaging>
     <description>开放接口网关层</description>
 
